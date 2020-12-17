@@ -1,0 +1,5 @@
+pypdf2
+filetype
+hashlib
+sqlite3
+os
